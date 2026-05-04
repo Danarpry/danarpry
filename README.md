@@ -100,7 +100,7 @@ Currently working as a **Project Manager & Data Analyst Intern at Jasa Raharja**
 ## 🌐 Connect With Me
 
 - 📧 Email: danarpritomo@gmail.com  
-- 💼 LinkedIn: [danarpritomo](www.linkedin.com/in/danarpritomo) 
+- 💼 LinkedIn: www.linkedin.com/in/danarpritomo
 - 💻 GitHub: [danarpry](https://github.com/danarpry)
 
 ---
